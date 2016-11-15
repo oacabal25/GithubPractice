@@ -1,6 +1,5 @@
 $(document).ready(function() {
-	$("#main").html("This isn't a test web");
-	$( "#button" ).click(function() {
-  $( "#target" ).click();
+	$("h1").html("This isn't a test website");
+	$("h2" ).css("color","red");
+ 
 });
-}

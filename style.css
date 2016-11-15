@@ -1,10 +1,9 @@
-#main {
+#h6 {
 	color: red;
 	background: #000;
-	{
     height: 10em;
     position: relative }
-#main{
+#h1{
     margin: 0;
     background: yellow;
     position: absolute;
